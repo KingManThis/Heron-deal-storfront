@@ -31,5 +31,7 @@
     "netlify-plugin-cypress": "~2.2.0",
     "plop": "^3.0.5",
     "prettier": "^2.6.2"
-  }
+  },
+  "main": "cypress.config.js",
+  "license": "ISC"
 }
